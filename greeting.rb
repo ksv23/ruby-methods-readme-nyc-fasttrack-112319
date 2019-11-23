@@ -1,9 +1,5 @@
-def greeting
-  puts "Hello World"
-end
+def greeting #method signature
+  puts "Hello World" #method body
+end #method closing
 
-greeting
-greeting
-greeting
-greeting
-greeting
+greeting #executing the method by name
