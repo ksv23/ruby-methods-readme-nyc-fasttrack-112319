@@ -3,4 +3,4 @@ def greeting #method signature
 end #method closing
 
 #greeting #executing the method by name
-greet("Spongebob")
+greeting("Spongebob")
