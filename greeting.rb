@@ -1,6 +1,6 @@
 def greet #method signature
-  puts "Hello #{name}" #method body
+  puts "Hello name" #method body
 end #method closing
 
 #greeting #executing the method by name
-greet("Spongebob")
+greet
