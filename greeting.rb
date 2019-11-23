@@ -4,7 +4,3 @@ end #method closing
 
 #greeting #executing the method by name
 greeting
-greeting
-greeting
-greeting
-greeting
