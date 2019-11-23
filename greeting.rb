@@ -1,4 +1,4 @@
-def greeting #method signature
+def greet #method signature
   puts "Hello #{name}" #method body
 end #method closing
 
